@@ -571,6 +571,8 @@ span,i{
 .slide-top-img img{
     border-radius: 5px;
     min-height: 290px;
+    max-height: 290px;
+    height: 100%;
     width: 100%;
 }
 .slide-top-img:hover::after,.slide-img:hover::after{
@@ -588,6 +590,7 @@ span,i{
     background-color: #d7efee;
     box-sizing: border-box;
     border-radius: 5px;
+    max-height: 290px;
 }
 .user-access-top{
     text-align: center;
