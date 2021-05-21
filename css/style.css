@@ -9,14 +9,13 @@ body{
     box-sizing: border-box;
     font-weight: 500;
     font-style: normal;
-    font-family: sans-serif;
+    font-family: 'Poppins',sans-serif;
     color: #000;
     box-sizing: border-box;
     overflow-x: hidden;
     overflow-y: auto;
     font-style: normal;
     font-size: 16px;
-   
     background-color: #f1f3f5;
 }
 img{
